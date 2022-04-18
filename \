@@ -1,0 +1,9 @@
+# Minimon (A small Pokémon like game)
+
+## Running and Installing
+
+First install the dependencies using pip
+```
+pip install rich
+pip install getkey
+```
